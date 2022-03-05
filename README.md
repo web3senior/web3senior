@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amir Rahimi(@web3senior)
+- 👋 Hi, I’m Amir Rahimi (@web3senior)
 - 💛 I’m interested in challenges & learning
 - 👨‍💻 I’m currently learning & working on web3 APIs
 - 💞️ I'm looking to collaborate on projects which are related to web3
