@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Amir Rahimi (@web3senior)
-- 💛 I’m interested in challenges & learning
-- 👨‍💻 I’m currently learning & working on web3 APIs
-- 💞️ I'm looking to collaborate on projects which are related to web3
-- 📫 t.me/atenyun
-
-<!---
-web3senior/web3senior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! My name is Amir, and I am a highly motivated individual driven by the pursuit of my goals. I possess a keen interest in the field of web3 and am actively seeking opportunities to collaborate with like-minded individuals on innovative projects. My experience and skill set make me an ideal candidate for any project related to web3. I am confident that my passion, motivation, and technical expertise will enable me to make a valuable contribution to any team or organization.
