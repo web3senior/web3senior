@@ -62,4 +62,3 @@ A 14-year career spanning leadership and deep technical roles, including **Chief
 | **Current Project** | [https://www.hup.social/](https://www.hup.social/) |
 | **Website** | [www.aratta.dev](https://www.aratta.dev) |
 | **Email** | atenyun@gmail.com |
-| **LinkedIn** | [linkedin.com/in/amir-rahimi](https://www.linkedin.com/in/amir-rahimi) |
