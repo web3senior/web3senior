@@ -19,15 +19,15 @@ I currently lead development on **hup.social**, a cutting-edge, fully on-chain s
 
 Proven ability to rapidly architect and deliver high-impact solutions, evidenced by **16 BUIDLs submitted** and an exceptional record of wins in competitive Web3 hackathons.
 
-### 🥇 LUKSO Ecosystem Mastery
+### 🥇 LUKSO Ecosystem Mastery: 1st, 2nd, and 3rd Place
 
-Secured an unprecedented **1st, 2nd, and 3rd place sweep** in the **LUKSO Grant Wave 2 Hackathon** by demonstrating unparalleled command over the LSP standards.
+Secured an unprecedented **1st, 2nd, and 3rd place sweep** in the **LUKSO Grant Wave 2 Hackathon** by building functional applications on the LUKSO Universal Profile standards (LSP7/LSP8).
 
-| Project (Likely Awarded) | Achievement | Focus |
+| Rank | Project Name | Focus |
 | :--- | :--- | :--- |
-| **PumpRoom** | 1st, 2nd, or 3rd Place Winner | AI-driven solution for automated **LSP7 Token Deployment** on LUKSO. |
-| **IceFund** | 1st, 2nd, or 3rd Place Winner | **LSP7 Token Locking Platform** for transparent community governance and DeFi. |
-| **FrameIt** | 1st, 2nd, or 3rd Place Winner | Enhanced NFT utility and visual display/personalization. |
+| **1st Place** | **Giftmoji** | Sending emoji on-chain, showcasing creative use of digital assets. |
+| **2nd Place** | **UniversalAds** | Renting your profile for an on-chain ad, demonstrating a decentralized monetization model. |
+| **3rd Place** | **rateUp** | A decentralized application similar to a LinkedIn endorsement app, focusing on reputation and identity. |
 
 ### 🛡️ Governance, Security, & L2 Solutions
 
