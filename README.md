@@ -60,5 +60,5 @@ A 14-year career spanning leadership and deep technical roles, including **Chief
 | Platform | Handle/Link |
 | :--- | :--- |
 | **Current Project** | [https://www.hup.social/](https://www.hup.social/) |
-| **Website** | [www.aratta.dev](https://www.atlasstack.xyz) |
+| **Website** | [www.atlasstack.xyz](https://www.atlasstack.xyz) |
 | **Email** | atenyun@gmail.com |
